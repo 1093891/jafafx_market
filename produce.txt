@@ -1,0 +1,4 @@
+P001###Organic Carrots###Fresh, seasonal, organic###2.5###100###2025-06-05###F001
+P002###Farm Eggs###Free-range, large dozen###4.0###38###2025-06-03###F001
+P003###Heirloom Tomatoes###Seasonal, juicy###3.75###69###2025-05-26###F001
+P004###Blueberries###Sweet, in season###5.5###50###2025-06-02###F001

@@ -1,0 +1,3 @@
+Farmer###F001###Green Acres Farm###greenacres@example.com###farmerpass###29.0,100.0
+Customer###C002###Alice Smith###alice@example.com###customerpass###29.0,60.0
+Farmer###F002###Tomd###adf@gmain.cl###123###12,78
