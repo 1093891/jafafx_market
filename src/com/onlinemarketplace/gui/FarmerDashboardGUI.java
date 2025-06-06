@@ -105,7 +105,6 @@ public class FarmerDashboardGUI {
         // Set default section to show on startup
         showSection(createProductManagementSection());
     }
-
     /**
      * Creates a styled navigation button.
      */
@@ -115,7 +114,6 @@ public class FarmerDashboardGUI {
         button.setOnAction(action);
         return button;
     }
-
     /**
      * Dynamically sets the displayed section in the content area.
      *
